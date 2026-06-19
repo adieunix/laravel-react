@@ -1,4 +1,4 @@
-# Trijaya
+# LaReact
 
 This is a Laravel application with an Inertia + React frontend.
 
